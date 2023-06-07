@@ -1,0 +1,17 @@
+{
+  "title": "Welcome to",
+  "minititle": "next level blog",
+  "subtitle": "Everything you need to start a cookie shop",
+  "features": [
+    { "title": "One", "content": "The quick brown fox jumps over the lazy dog" },
+    { "title": "Two", "content": "The quick brown fox jumps over the lazy dog" },
+    { "title": "Three", "content": "The quick brown fox jumps over the lazy dog" },
+    { "title": "Four", "content": "The quick brown fox jumps over the lazy dog" },
+    { "title": "Five", "content": "The quick brown fox jumps over the lazy dog" },
+    { "title": "Six", "content": "The quick brown fox jumps over the lazy dog" }
+  ],
+  "navbar": [
+    { "title": "Features", "path": "", "children": [{ "title": "Action", "path": "#" }, { "title": "Another action", "path": "#" }] },
+    { "title": "Blog", "path": "/blog" }
+  ]
+}

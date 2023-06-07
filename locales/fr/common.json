@@ -1,0 +1,17 @@
+{
+  "title": "Bienvenue à",
+  "minititle": "blog de niveau supérieur",
+  "subtitle": "Tout ce dont vous avez besoin pour démarrer une boutique de cookies",
+  "features": [
+    { "title": "un", "content": "Le renard brun rapide saute par-dessus le chien paresseux" },
+    { "title": "deux", "content": "Le renard brun rapide saute par-dessus le chien paresseux" },
+    { "title": "trois", "content": "Le renard brun rapide saute par-dessus le chien paresseux" },
+    { "title": "quatre", "content": "Le renard brun rapide saute par-dessus le chien paresseux" },
+    { "title": "Cinq", "content": "Le renard brun rapide saute par-dessus le chien paresseux" },
+    { "title": "Six", "content": "Le renard brun rapide saute par-dessus le chien paresseux" }
+  ],
+  "navbar": [
+    { "title": "Caractéristiques", "path": "", "children": [{ "title": "Action", "path": "#" }, { "title": "Une autre action", "path": "#" }] },
+    { "title": "Blog", "path": "/blog" }
+  ]
+}
